@@ -15,7 +15,7 @@ Small project for 1-month in ccClub Python Fall 2025.
     |                                 needed to be completed by manually and Selenium 
     |                                 will take over the following tasks.
     |
-    ├── N02_spotifychart_xxxx.ipynb # Define a function cleaning the csv files obtained 
+    ├── N02_csv_extract_xxxx.ipynb # Define a function cleaning the csv files obtained 
     |                                 from N01_xxx.ipynb to get unique track ID. Use 
     |                                 them to call Spotify Web Developer API for 
     |                                 features of each track.
